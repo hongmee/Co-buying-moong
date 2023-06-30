@@ -59,7 +59,7 @@
     <td>웹 사이트 아이콘</td><td colspan="3">Piskel</td>
   </tr>
 </table>
-<br><br>
+<br>
 
 ## 💡주요 기능
 #### 1. 메인
