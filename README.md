@@ -10,7 +10,7 @@
 공동구매 쇼핑몰 '공구마켓'과, 개인 창작마켓 '윗치폼'을 참고하여 만들었습니다.
 <br><br>
 ## 🔗 관련 링크
-- [UI프로토타이핑(김홍미 구현 페이지)](https://www.naver.com)
+- <a href="https://ovenapp.io/view/QdVDUh7E8Xo7oPUNfLXRt8MjZRQMW6cS/" target="_blank">UI프로토타이핑(김홍미 구현 페이지)</a>
 - [ERD]
 <br><br>
 ## ⚙ 사용 기술 / 개발 환경
