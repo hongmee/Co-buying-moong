@@ -11,7 +11,7 @@
 <br><br>
 ## 🔗 관련 링크
 - <a href="https://ovenapp.io/view/QdVDUh7E8Xo7oPUNfLXRt8MjZRQMW6cS/" target="_blank">UI프로토타이핑(김홍미 구현 페이지)</a>
-- [ERD]
+- <a href="https://www.canva.com/design/DAFnTOp2A4c/2AXZedRntwWAYFH0G0LjBQ/edit?utm_content=DAFnTOp2A4c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">ERD / 유스케이스 / 전체 UI 프로토타이핑 / 스토리보드 </a>
 <br><br>
 ## ⚙ 사용 기술 / 개발 환경
 <table border="1">
